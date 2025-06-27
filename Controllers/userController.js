@@ -1,4 +1,4 @@
-import { User } from "../Models/UserSchema.js";
+import { User } from "../Models/userSchema.js";
 import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
 
